@@ -340,5 +340,14 @@ footer {
 
 }
 
+/* Efecto Parallax*/ 
+
+.seccion1 {
+  background: url(../img/ParaForkear.png);
+  background-position: bottom center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 
 
